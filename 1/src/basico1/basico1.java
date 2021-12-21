@@ -11,6 +11,7 @@ public class basico1 {
 			System.out.println();
 			}else {
 				System.out.print("*");
+				System.out.println("hola");
 			}
 		}
 	}
