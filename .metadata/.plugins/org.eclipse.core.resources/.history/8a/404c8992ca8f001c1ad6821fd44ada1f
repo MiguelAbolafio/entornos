@@ -1,0 +1,19 @@
+package ex2MiguelAbolafio;
+
+public class Matriz {
+//miguel abolafio
+	public static void main(String[] args) {
+
+
+		int[][] matriz=new int[10][10];
+		
+		 for(int i=0; i<matriz.length ; i++) {
+			 matriz[i];
+			 
+			 
+			 
+		 }
+		 
+	}
+
+}

@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class esfera {
+	
+	
+
+	public static void main(String[] args) {
+		
+		Scanner teclado = new Scanner(System.in);
+			
+       System.out.println("Dame el radio de la esfera");
+       teclado.nextDouble();
+
+	}
+
+}
